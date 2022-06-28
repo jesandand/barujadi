@@ -1,0 +1,20 @@
+{
+    "ownerNumber": "62895369318181@s.whatsapp.net",
+    "ownerName": "Ahmad Chen Dev",
+    "botName": "Koleksibot Store",
+    "footer": "JadiStore Shop",
+    "sessionName": "store",
+    "pathimg": "./media/logo.jpg",
+    "lolkey": "Atakbotz",
+    "instagram": "https://instagram.com/cyber_mrlinkerrorsystemoffical",
+    "gamewaktu": 90,
+    "limitCount": 50,
+    "gcount": {
+        "prem": 35,
+        "user": 15
+    },
+    "sticker": {
+        "packname": "Created By",
+        "author": "Koleksibot"
+    }
+}
